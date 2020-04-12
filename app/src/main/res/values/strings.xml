@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quakes</string>
+    <string name="region_name">Region name</string>
+    <string name="region_date">Region date</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="origin_time">Origin time</string>
+    <string name="location">Location</string>
+    <string name="depth">Depth</string>
+    <string name="start_date">Start date</string>
+</resources>
